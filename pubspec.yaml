@@ -41,7 +41,7 @@ dependencies:
   go_router: ^14.2.0
   google_maps_flutter: ^2.5.2
   geocoding: ^2.1.1
-  google_maps_services_dart: ^1.17.1 # Replaced google_maps_webservice
+  google_maps_services_dart: ^1.17.1
   http: ^1.2.1
 
 dev_dependencies:
